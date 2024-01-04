@@ -26,6 +26,11 @@ This Python tool is designed using Tkinter to analyze Instagram influencer data 
 - **NumPy:** Used for numerical computations and data handling.
 - **Seaborn & Matplotlib:** Enables the creation of interactive and insightful charts and graphs.
 
+## GUI:
+![image](https://github.com/shankesh02/Instalytics/assets/102737617/770f2028-c1cd-4830-9f9e-b7e84da0da69)
+![image](https://github.com/shankesh02/Instalytics/assets/102737617/0ee8e242-3fe3-4aa9-b92e-40a11043db3d)
+
+
 ## Enjoy Exploring:
 
 Feel free to explore, modify, and utilize this tool to analyze Instagram influencer data. May it serve your needs effectively!
